@@ -21,7 +21,7 @@ On social media: @deptlgsc (instagram) or @DLGSCarts (fb and twitter)
 
 ## Regional Arts WA
 
-Acknowledgement of support from the Australian Government, Regional Arts Australia and Regional Arts WA will be used on all promotional materials, websites, invitations and signage associated with the funded project. This acknowledgement will include the [Australian Government Regional Arts Fund logo](https://www.arts.gov.au/funding-and-support/regional-arts-fund/regional-arts-fund-logos), [Regional Arts Australia logo](https://github.com/alisay/hyphae/tree/master/admin/logos/RAA%20Logos) and [Regional Arts WA logo](https://www.dropbox.com/sh/pgb4vvxb8jkw7tq/AACJmbDRHR4HM-ByXx_g3iVta?dl=0).
+Acknowledgement of support from the Australian Government, Regional Arts Australia and Regional Arts WA will be used on all promotional materials, websites, invitations and signage associated with the funded project. This acknowledgement will include the [Australian Government Regional Arts Fund logo](https://www.arts.gov.au/funding-and-support/regional-arts-fund/regional-arts-fund-logos), [Regional Arts Australia logo](https://github.com/alisay/funding/tree/main/hyphae/logos/RAA%20Logos) and [Regional Arts WA logo](https://www.dropbox.com/sh/pgb4vvxb8jkw7tq/AACJmbDRHR4HM-ByXx_g3iVta?dl=0).
 
 Where possible a written or spoken acknowledgement will be given as follows: 'This project was made possible by the Australian Government's Regional Arts Fund, which supports the arts in regional and remote Australia’
 
@@ -31,4 +31,4 @@ On social media posts, include #regionalartsfund
 
 This project was supported by Vancouver Arts Centre through its Supported Workshop Program. 
 
-Logo is [here](https://github.com/alisay/hyphae/tree/master/admin/logos/VAC%20logos)
+Logo is [here](https://github.com/alisay/funding/tree/main/hyphae/logos/VAC%20logos)
