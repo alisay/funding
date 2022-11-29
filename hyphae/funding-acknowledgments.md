@@ -4,6 +4,7 @@ This project has been assisted by the Australian Government through the Australi
 
 
 ## Australia Council for the Arts
+
 You will include in all the funded activity promotional material and publications, whether electronic or print, a prominent acknowledgement as follows:
 'This project has been assisted by the Australian Government through the Australia Council for the Arts, its arts funding and advisory body.'
 
@@ -11,7 +12,6 @@ You will include in all the funded activity promotional material and publication
 
 [Logo Guidelines](https://australiacouncil.gov.au/workspace/uploads/files/australia-council-logo-guideli-54b326e512bdb.pdf)
 
-## Bunbury Regional Art Gallery
 
 ## Department of Local Government, Sports and Creative Industries
 
@@ -26,9 +26,3 @@ Acknowledgement of support from the Australian Government, Regional Arts Austral
 Where possible a written or spoken acknowledgement will be given as follows: 'This project was made possible by the Australian Government's Regional Arts Fund, which supports the arts in regional and remote Australia’
 
 On social media posts, include #regionalartsfund
-
-## Vancouver Arts Centre, Albany
-
-This project was supported by Vancouver Arts Centre through its Supported Workshop Program. 
-
-Logo is [here](https://github.com/alisay/funding/tree/main/hyphae/logos/VAC%20logos)
